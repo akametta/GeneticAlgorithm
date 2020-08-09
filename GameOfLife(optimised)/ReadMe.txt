@@ -1,5 +1,6 @@
 Time Complexity : O(gridLength*gridWidth)
 Space Complexity : O(1)
+Assumption : matrix is not sparse
 Here i have used dummy values to reflect the transitions from dead to live and vice-versa
 
 Dead(0)-->Live(1) : Reproductiion represented by 2.
